@@ -5,7 +5,7 @@ import (
     "k8s.io/apimachinery/pkg/runtime"
     "k8s.io/apimachinery/pkg/runtime/schema"
 
-    "github.com/yourusername/traffic-capture-controller/pkg/apis/trafficcapture/v1"
+    "github.com/netand593/traffic-capture-controller/pkg/apis/trafficcapture/v1"
 )
 
 const (
