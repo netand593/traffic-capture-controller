@@ -10,7 +10,7 @@ import (
     "k8s.io/client-go/kubernetes"
     "k8s.io/klog/v2"
 
-    trafficcapturev1 "github.com/yourusername/traffic-capture-controller/pkg/apis/trafficcapture/v1"
+    trafficcapturev1 "github.com/netand593/traffic-capture-controller/pkg/apis/trafficcapture/v1"
 )
 
 type TrafficCaptureController struct {
